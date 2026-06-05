@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 👋 Hi there! I'm **Bảo Hân** ˚₊‧꩜
+## 👋 Hi there! I'm **Bảo Hân** 
 
 
 
@@ -21,7 +21,7 @@
 ## About Me
 
 ```yaml
-Name       : Nguyen Bao Ha
+Name       : Nguyen Huynh Bao Han
 Location   : Ho Chi Minh City, Vietnam 🇻🇳
 Languages  : Vietnamese 🇻🇳  |  English 🇬🇧
 ```
